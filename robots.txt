@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /blog/_modelo-post.html
+Disallow: /memorias/_modelo-case.html
+Disallow: /observatorio-da-cultura/_modelo-episodio.html
+
+Sitemap: https://balaiodocerrado.com.br/sitemap.xml
